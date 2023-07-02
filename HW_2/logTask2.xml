@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-07-02T14:04:32.988618600Z</date>
+  <millis>1688306672988</millis>
+  <nanos>618600</nanos>
+  <sequence>0</sequence>
+  <logger>HW_2.Task_2</logger>
+  <level>INFO</level>
+  <class>HW_2.Task_2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>сортированный массив</message>
+</record>
+</log>
